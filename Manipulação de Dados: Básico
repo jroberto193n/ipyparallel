@@ -1,0 +1,24 @@
+{"cells";[
+{
+"cell_type": "markdown",
+"metadata":  {},
+"source":  [
+"__/n",
+"#Capitulo 1 - Manipulação de dados: Basico/n",
+"## Seção 2 - Selecionando dados/n",
+"___ /n",
+"### inportando bibliotecas e classes/n", "/n",]},
+[
+"cell_type":  "code",
+"execultion_count":  3,
+"metadata":  {
+"collapsed":  true},
+"outpets":[]
+"source":{
+"import numpy as np/n",
+"impot pandaa as pd/n","/n",
+"from pandaas import Séries, DataFrame"]},
+{ "cell_type": "markdown",
+"metadata": []
+"### Criar Dados/n","/n",
+"np=arange(valor)/n""/n",
